@@ -1,0 +1,52 @@
+body {
+    color: lightpink;
+    background: black;
+    margin: 0px;
+    font-family: "Kanit", sans-serif;
+}
+
+header {
+border-bottom: solid 2px lightpink;
+padding: 20px;
+font-size: 28px;
+color: rgba(181, 0, 236, 0.788);
+}
+
+.chamada{
+
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamada-texto{
+display: flex;
+margin-right: 20px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+
+    height: 270px;
+}
+
+.categoria-videos{
+display: flex;
+overflow-x:auto;
+gap: 10px;
+
+}
+section{
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
